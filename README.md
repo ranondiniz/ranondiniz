@@ -13,7 +13,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
@@ -62,12 +62,6 @@
 
 ###
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/6009f81a6ace3af87e6f77dbcfee75ca53b8499df272d4cca4a1fc3731a2c53c/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457862474e334f444e7a4e58686a65475a34636d466f61584a714e6d46735a586877596a4e334e47317a4d484e7262336473654768764d535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f6247677363356d576f727966674b427831752f67697068792e676966"  />
-
-###
-
-<div align="right">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHY2aHJsN2E4a3Fyam5veDh0ZjQ4aGMwbHNibGVndW1kNHdleHIxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qqDVCetD9mhYLyoies/giphy.gif"  />
-</div>
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDAwY3dlaHhrZ3Y1bzUyYjJoN2l1YnNxYzUzZ2pxZXUyaDFvNTZsdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10zxDv7Hv5RF9C/giphy.gif"  />
 
 ###
