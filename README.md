@@ -1,4 +1,4 @@
-<h2 align="left">Hey 👋! Meu nome é Ranon Diniz e sou Data Engineer. Seja bem-vindo ao meu perfil!</h2>
+<h2 align="center">Hey 👋! Meu nome é Ranon Diniz e sou Data Engineer. Seja bem-vindo ao meu perfil!</h2>
 
 ###
 
@@ -13,7 +13,11 @@
 
 ###
 
-<div align="center">
+<h3 align="left">Linguagens-Frameworks-Ferramentas:</h3>
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
@@ -40,7 +44,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/ranondiniz/ranondiniz/output/snake.svg" alt="Snake animation" />
 
 ###
