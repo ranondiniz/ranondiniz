@@ -62,9 +62,9 @@
 
 ###
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <img style="height: 200px;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTU0ZnBsb2R6YXI4NDY3NWFibzNraHM3cnM1c3QydDJlZG01OHpiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6xE1FNcorRInS/giphy.gif" />
-  <img style="height: 200px;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWs1bnV6c3dpMWdoa3R2ZzN2NHRnZW1wNmZtYnp2OTRweW0xdTBjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif" />
+  <img style="height: 200px; margin-left: 20px;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWs1bnV6c3dpMWdoa3R2ZzN2NHRnZW1wNmZtYnp2OTRweW0xdTBjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif" />
 </div>
 
 ###
