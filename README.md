@@ -1,4 +1,4 @@
-<h2 align="left">Hey 👋! Meu nome é Ranon Diniz e sou Data Engineer. Seja bem-vindo ao meu perfil!</h2>
+<h2 align="left">Hey 👋! Meu nome é Ranon e sou Data Engineer. Seja bem-vindo ao meu perfil!</h2>
 
 ###
 
@@ -47,5 +47,7 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/ranondiniz/ranondiniz/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
