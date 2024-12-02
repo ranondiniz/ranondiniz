@@ -62,6 +62,12 @@
 
 ###
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHFjZnF3ampvOGttZzJxbWU2dzFobXBuMzh0NzhlMjhmb2lwb3ltMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sk6yL9EGVeAcE/giphy.gif"  />
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnRwMGRkbjVwZHlkeWNicGVkNWZpajRra2wwdjNza3kxeGQ1ZzcwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v7WM6sLcnGIc8/giphy.gif"  />
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWs1bnV6c3dpMWdoa3R2ZzN2NHRnZW1wNmZtYnp2OTRweW0xdTBjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif"  />
+</div>
 
 ###
