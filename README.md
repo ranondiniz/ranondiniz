@@ -8,12 +8,11 @@
 <h2 align="center">Linguagens, Frameworks e Ferramentas:</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" />
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,mysql,postgres,gcp,aws,jenkins,docker,git,github,figma,jest" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="30" />
+  <img src="https://skillicons.dev/icons?i=py,java,html,css,js,react,mysql,postgres,gcp,aws,jenkins,docker,git,github,figma,jest" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="height:30px; margin: 4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="height:30px; margin: 4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" style="height:30px; margin: 4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" style="height:30px; margin: 4px;" />
 </div>
 
 ---
