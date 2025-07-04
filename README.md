@@ -2,7 +2,7 @@
 
 ---
 
-### 🧑‍💻 Sobre mim
+### Sobre mim
 
 Olá! Eu sou o **Ranon Diniz** e sou **Engenheiro de Dados** apaixonado por transformar dados em valor. Tenho experiência com pipelines de dados, arquitetura em nuvem (GCP, AWS, Databricks e um pouco de Azure), bancos de dados relacionais e não relacionais, além de habilidades em Python, SQL e ferramentas de orquestração.
 
@@ -13,7 +13,7 @@ Atualmente, tenho estudado mais sobre modelagem de data lakes, arquitetura distr
 
 ---
 
-### 🧰 Tecnologias e ferramentas
+### Tecnologias e ferramentas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,java,html,css,js,react,mysql,postgres,gcp,aws,jenkins,docker,git,github,jest" height="30" />
@@ -21,7 +21,7 @@ Atualmente, tenho estudado mais sobre modelagem de data lakes, arquitetura distr
 
 ---
 
-### 🎯 Estatísticas
+###  Estatísticas
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ranondiniz&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_border=false" height="150" />
@@ -30,7 +30,6 @@ Atualmente, tenho estudado mais sobre modelagem de data lakes, arquitetura distr
 
 ---
 
-### 😄 Curiosidade
 
 <div align="center">
   <img src="https://i.giphy.com/media/6xE1FNcorRInS/giphy.gif" width="200px" />
