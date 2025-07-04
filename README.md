@@ -16,8 +16,12 @@ Atualmente, tenho estudado mais sobre modelagem de data lakes, arquitetura distr
 ### Tecnologias e ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,html,css,js,react,mysql,postgres,gcp,aws,jenkins,docker,git,github,jest" height="30" />
+  <img src="https://skillicons.dev/icons?i=py,sql,postgres,mysql,gcp,aws,docker,pandas,react,nodejs,html,css,js,git,github" height="30" />
 </div>
+
+<p align="center">
+  <b>Stack atual:</b> Python · SQL · PostgreSQL · GCP · AWS · Docker · APIs REST · Power BI · Pandas · SQLAlchemy · Git · GitHub · React · Node.js
+</p>
 
 ---
 
